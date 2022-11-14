@@ -22,10 +22,21 @@
             <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
             <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
             <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+                 <img align="center" alt="html5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwespLTIyRBvVI2CUcwDqTM0L9cIy0wuluCIvWKfn7mWCew8Zd" height="20 widght="50" /> </div> </br></br>
          
-        
-            
-</div>
+
+
+
+
+
+## Para usar minha "box" já configurada para trabalhar em seu computador de qualquer lugar ou dividir para pessoas de trabalho:
+</br>
+
+## Click na imagem a baixo: 
+
+
+
+<a href="https://github.com/codeinsid/github-readme-stats#gh-dark-mode-only"><img src="https://howtoprogram.xyz/wp-content/uploads/2016/07/Install-Vagrant-On-Ubuntu.png" class="media-object  img-responsive img-thumbnail"></a>
 
 
 
