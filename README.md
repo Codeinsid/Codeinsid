@@ -2,12 +2,6 @@
 
 <!--[![Thiago](https://github-readme-stats.vercel.app/api?username=codeinsid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/codeinsid/github-readme-stats#gh-dark-mode-only)  -->
 
-
-
-
-
-
-
 ## Tecnologias
 
 <div style="display inline_block"><br/>
