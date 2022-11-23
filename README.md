@@ -7,7 +7,7 @@
 <div style="display inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> 
      <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-        <img align="center" alt="html5" src="https://camo.githubusercontent.com/b54d2e6bf5f15ddf3dd884b7d1bf21c7d5cc8798d119d74a6538c1a1b583a49b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" />
+       <!-- <img align="center" alt="html5" src="https://camo.githubusercontent.com/b54d2e6bf5f15ddf3dd884b7d1bf21c7d5cc8798d119d74a6538c1a1b583a49b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" /> -->
         <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
        <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
