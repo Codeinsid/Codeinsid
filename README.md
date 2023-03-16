@@ -1,5 +1,4 @@
 ###  Thiago Almeida 
-
 [![Thiago](https://github-readme-stats.vercel.app/api?username=codeinsid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/codeinsid/github-readme-stats#gh-dark-mode-only)  
 
 ## Tecnologias
@@ -19,7 +18,6 @@
             <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
             <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
                  <img align="center" alt="html5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwespLTIyRBvVI2CUcwDqTM0L9cIy0wuluCIvWKfn7mWCew8Zd" height="20 widght="50" /> </div> </br></br>
-         
 
 ### Box configurada para trabalhar: 
 ## Ruby on Rails, RVM, Mysql, Postgre, Git.  
