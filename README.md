@@ -23,7 +23,6 @@
 ## Ruby on Rails, RVM, Mysql, Postgre, Git.  
 ### Em seu computador:
 </br>
-
 ## Click na imagem a baixo: 
 
 <a href="https://app.vagrantup.com/Codeinsid/boxes/rails-dev-20"><img src="https://howtoprogram.xyz/wp-content/uploads/2016/07/Install-Vagrant-On-Ubuntu.png" class="media-object  img-responsive img-thumbnail"></a>
