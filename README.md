@@ -21,6 +21,9 @@
 
 
 
+
+
+
 ### Box configurada para trabalhar: 
 ## Ruby on Rails, RVM, Mysql, Postgre, Git.  
 ### Em seu computador:
