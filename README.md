@@ -28,4 +28,4 @@
 </br>
 ## Click na imagem a baixo: 
 <>
-<a href="[[https://app.vagrantup.com/Codeinsid/boxes/rails-dev-20](https://miro.medium.com/v2/resize:fit:1400/1*Zbz9fpzWMO-of_GvfWyY4Q.png)](https://miro.medium.com/v2/resize:fit:1400/1*Zbz9fpzWMO-of_GvfWyY4Q.png)"><img src="https://howtoprogram.xyz/wp-content/uploads/2016/07/Install-Vagrant-On-Ubuntu.png" class="media-object  img-responsive img-thumbnail"></a>
+<a href="[[https://app.vagrantup.com/Codeinsid/boxes/rails-dev-20](https://miro.medium.com/v2/resize:fit:1400/1*Zbz9fpzWMO-of_GvfWyY4Q.png)](https://miro.medium.com/v2/resize:fit:1400/1*Zbz9fpzWMO-of_GvfWyY4Q.png)"><img src="[https://howtoprogram.xyz/wp-content/uploads/2016/07/Install-Vagrant-On-Ubuntu.png](https://miro.medium.com/v2/resize:fit:1400/1*Zbz9fpzWMO-of_GvfWyY4Q.png)https://miro.medium.com/v2/resize:fit:1400/1*Zbz9fpzWMO-of_GvfWyY4Q.png" class="media-object  img-responsive img-thumbnail"></a>
